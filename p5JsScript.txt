@@ -1,3 +1,5 @@
+var w = 10;
+
 function setup() {
   createCanvas(400, 400);
 }
